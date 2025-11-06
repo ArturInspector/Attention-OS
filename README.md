@@ -1,151 +1,203 @@
-# Attention-OS
-**Defensive AIs for Defending your Attention Capital**
+# Attention OS
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> An open-source framework for reclaiming attention capital in the AI age.
-> Based on the book: From Burnout to Breakthouth: Reclaming Attention Capital in the AI Age.
+**Your attention is being hijacked. Here's the defense system.**
 
----
-
-## What is Attention-OS?
-
-Most AI systems optimize for **engagement** (feeds, ads, notifications). Attention-OS is different: it's designed to **defend your attention**, not exploit it.
-
-This repository contains:
-- **System prompts** for Defensive AIs (journaling feedback, decision audits, mission alignment)
-- **Templates** for managing attention as capital (balance sheets, barbell audits, elimination protocols)
-- **Frameworks** from 17 years of startup building + 9 years of nomadic field-testing
-
-**Core Principle:** Build on Lindy practices (time-tested for 1,000+ years). Use AI to accelerate, not replace.
+> **This is an open-source framework for protecting your focus and reclaiming your agency in the age of AI.**
+>
+> This repository provides a set of core protocols, defensive AI prompts, and mental frameworks to help you:
+> * 🛡️ **Defend** your attention from digital hijacking.
+> * 🧠 **Generate** original insights by activating your brain's "background processor."
+> * 🤖 **Use AI** as a mirror for reflection, not a machine for prescription.
 
 ---
 
-## Why "Defensive AI"?
+## 🧭 Navigation
 
-**Exploitative AI:**
-- Maximizes engagement (time on site)
-- Prescribes actions (tells you what to do)
-- Black box logic (you don't know why)
-- Ambient interruption (notifications, feeds)
-- Single perspective (reinforces bias)
-
-**Defensive AI:**
-- Protects attention (helps you think)
-- Provides feedback (mirrors patterns, doesn't dictate)
-- Transparent logic (explains reasoning)
-- Opt-in only (you activate it)
-- Multi-perspective (counterbalances bias)
+* [The Story: What Happened in Mongolia](#what-happened-in-mongolia)
+* [The Problem: Why This Exists](#why-this-exists)
+* [The System: The Three Core Protocols](#the-three-core-protocols)
+* [The Tools: What's in the Repo](#whats-in-the-repo)
+* [The Mission: Why This Is Open Source](#this-is-open-source-heres-why)
+* [Your First Move](#your-first-move)
+* [The Stakes](#the-stakes)
+* [The Meta-Proof](#the-meta-proof)
+* [Contributing](#contributing)
+* [About](#about)
 
 ---
 
-## What's Inside
+## 🏕️ What Happened in Mongolia
 
-### `/prompts/`
-Ready-to-use system prompts for:
-- **Journaling feedback** (accelerate reflection)
-- **Sunk cost detection** (flag loss aversion)
-- **Mission alignment checks** (detect drift)
-- **DMN companion** (post-boredom-session reflection)
-- **Attention audits** (where does focus actually go?)
-- **Multi-perspective decisions** (6 models, compare responses)
+I was living in a yurt in Orkhon Valley. No electricity. No shower. Phone in battery-saving mode. Just me, the steppe, and silence.
 
-### `/templates/`
-Frameworks for managing attention as capital:
-- **Attention balance sheet** (assets vs liabilities)
-- **Barbell audits** (are you in fragile middle?)
-- **Elimination protocol** (via negativa checklist)
-- **Mission statement** (define what you refuse)
+For the first time in years, my internal voice became loud enough to hear.
 
-### `/examples/`
-Real-world usage:
-- Sample journal entries + AI feedback
-- Decision audits (anonymized)
-- Mission statements
-- Attention audits
+I realized something: maybe I had valuable content inside me worth paying attention to, versus trying to listen to another podcast.
+
+That moment changed everything.
+
+I'd been running an attention operating system instinctively for 17 years—surviving startup collapse, LUNA crash, nomadic chaos across 90 countries. But I'd never formalized it.
+**Mongolia gave me the silence to see the system.**
+
+Now I'm giving it to you.
 
 ---
 
-## Quick Start
+## ☕ Why This Exists
 
-1. **Pick one prompt** (start with `journaling-feedback.md`)
-2. **Copy system prompt** into your AI tool (ChatGPT, Claude, etc.)
-3. **Test with real input** (journal entry, decision, etc.)
-4. **Observe**: Does it help you think, or does it prescribe?
-5. **Iterate**: Adjust prompt based on your needs
+Three months ago, I watched my friend deflate over coffee in Bishkek.
 
----
+> *"I can't focus anymore. My attention is constantly hijacked. AI is changing everything so fast. It's like I'm losing the ability to create."*
 
-## Core Principles (The "Why")
+He'd started using AI to write video titles and descriptions. "It's faster," he said, "but something's missing."
 
-### 1. Feedback > Prescription
-AI should mirror your patterns, not tell you what to do. You maintain agency.
+**I recognized that look. I'd felt it after LUNA.**
 
-### 2. Multi-Perspective > Single Model
-Query 6 models simultaneously. Divergence is data.
+Here's what's happening: AI doesn't just distract your attention like social media did—**it directs it**. It suggests decisions based on aggregate data, not your unique context. It optimizes your schedule for "productivity," not your creative flow.
+By the time agentic AI arrives, most people will have forgotten how to set their own goals. They'll be operating systems running someone else's code.
 
-### 3. Lindy-Aligned > Neomania
-Build on time-tested practices (boredom, journaling, walking). AI accelerates these—doesn't replace them.
+**Here's what shook me most:** I've been working out daily for 11 years. Meditating daily for 11 years. Writing. Traveling. Building companies for 17 years.
 
-### 4. Opt-In > Ambient
-You activate Defensive AIs. They don't interrupt you.
+**I still fell prey to hijack during LUNA.**
 
-### 5. Transparent > Black Box
-AI explains its reasoning. You understand the logic.
+If I can lose my agency with all these defenses, how much harder is it for someone without them?
 
 ---
 
-## Context: The Book
+## 🛡️ The Three Core Protocols
 
-This framework comes from **"From Burnout to Breakthrough: Reclaiming Attention Capital in the Age of AI"** by Adrian Avendano.
+In Mongolia's silence, I discovered three foundational patterns required to maintain agency:
 
-- 17 years building startups (Dublin, Startup Chile, NYC)
-- 9 years as digital nomad (40+ countries)
-- $7K lost in LUNA crash (skin in the game)
-- COVID survival → AI pivot → Attention Capital OS emerged
+### 1. 🧹 Garbage Collect Input
+**Eliminate notifications and passive content to free up Attention Capital.**
+This was the first change in the yurt. It delivered an immediate 20% regain of confidence. Turn off the noise. See what surfaces.
 
-**Book status:** Publishing January 2025  
-**Early access:** [Link when available]
+### 2. 🧠 Mind Wandering Loop
+**Activate your Default Mode Network (DMN) for original insight generation.**
+Your brain has a background processor that only works during boredom. It connects dots, spots patterns, generates breakthroughs. But it only turns on when you stop trying.
+The train station moment in Mongolia—finding the impossible border crossing—that was DMN at work.
 
----
+### 3. 💡 Reflection Loop
+**Use AI as a mirror, not a prescription machine.**
+Action → Feedback → Correction. Wander → Capture → AI feedback to structure thoughts and identify blind spots. This creates compounding cognitive growth.
 
-## Contributing
-
-This is v1.0—it's rough, it's opinionated, it's incomplete.
-
-**How to contribute:**
-1. **Test prompts** → Open issues with results (what worked, what didn't)
-2. **Submit new prompts** → PR with use case + example
-3. **Share your mission statement** → Anonymized examples help others
-4. **Translate** → Non-English prompts welcome
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Plus frameworks for adaptive focus, signal clarity, and conscious elimination.
 
 ---
 
-## License
+## 🧰 What's in the Repo
 
-MIT License—use it, fork it, modify it. Just credit the source.
+### 1. Defensive AI Prompts
+Ready-to-use system prompts that **mirror patterns back to you** instead of telling you what to do:
+* [Input Auditor](prompts/input_auditor.md) (see your attention balance sheet)
+* [Capture AI](prompts/capture_ai.md) (DMN session companion)
+* [Journaling Feedback](prompts/journal_feedback.md) (accelerate reflection without prescription)
+* [Sunk Cost Detector](prompts/sunk_cost.md) (flag loss aversion)
+
+### 2. Attention Capital Frameworks
+Templates for managing attention like the finite resource it is:
+* Balance Sheet (assets vs. liabilities)
+* Barbell Audit (are you in the fragile middle?)
+* Elimination Protocol (via negativa checklist)
+* Mission Statement (define what you refuse)
+
+### 3. The Philosophy
+The book (coming 2025) explains the "why" behind every protocol. This repo gives you the "how."
 
 ---
 
-## Contact
+## 👐 This Is Open Source. Here's Why.
 
-**Adrian Avendano**  
-- Web: [ainomads.org](https://ainomads.org)  
-- AI Tools: [Agent-A](https://agenta.chat)  
-- LinkedIn: [linkedin.com/in/adrianavendano](https://linkedin.com/in/adrianavendano)  
+**If I sell out or die, these protocols must live.**
+
+Closed systems have single points of failure. This can't be one of them.
+
+> *"I'm making this open source because it has to survive beyond me. Closed systems have single points of failure. This can't."*
+
+Everything lives on GitHub. Every prompt. Every template. Every framework. Clone it. Break it. Prove me wrong. Every fork that improves this makes the defense stronger.
+
+**This is collective defense, not individual optimization.**
+You bring patterns from your domain—parenting, teaching, art, medicine, research. I bring patterns from nomadic adaptation. Together we build something antifragile.
 
 ---
 
-## Acknowledgments
+## 🚀 Your First Move
 
-Built on principles from:
-- Nassim Taleb (Antifragile, Skin in the Game)
-- Oliver Burkeman (Four Thousand Weeks)
-- Cal Newport (Deep Work)
-- Anne-Laure Le Cunff (Ness Labs)
+**This week, do what I did after the valley:**
 
-Field-tested in: Mongolia, China, Pakistan, Nepal, Georgia, Turkey, Tajikistan, Kazakhstan, Portugal, Spain, Chile, Colombia, Ireland, USA.
+**Turn off your notifications.**
 
-**What survived 9 years of chaos:** This framework.
+Not all of them—keep family, health, anything truly urgent. But silence the ambient hum. The feeds. The "someone liked your post" pings. The news alerts. The app badges.
 
-Now it's yours. Tinker. Report back.
+That's it. That's the whole assignment.
+
+When I did this, I expected to feel anxious, like I was missing something. Instead, my mind began to wander in ways it hadn't in years. Ideas that had been buried under constant input started floating back up.
+
+**Run the experiment. Track what surfaces.**
+
+Then come back and grab the [Input Auditor prompt](prompts/input_auditor.md). See where your attention *actually* goes versus where you *think* it goes.
+
+---
+
+## 🌊 The Stakes
+
+We're emerging from the social media wave—benefits undeniable, side effects massive. Now a much larger wave rises: AI.
+
+Unlike before, **we have no defense mechanisms, no adaptive frameworks, no philosophy** for the scale of change it's about to unleash—not only on attention and focus, but on work, identity, and human skill.
+
+**If we don't build defenses now, we risk losing agency entirely.**
+
+Because attention isn't just focus. It's the fundamental mental unit that holds our capacity for creativity, learning, and flow together.
+
+A fragmented mind can't enter flow. And in flow, something remarkable happens: the brain quiets its self-monitoring chatter and redirects energy toward focused, goal-directed processing. Inner doubts fade. Rigidity softens. The mind becomes more playful, more combinatorial—better able to connect dots in new ways.
+
+**That's adaptability in action.**
+
+---
+
+## meta The Meta-Proof
+
+I'm writing the book using this system. You're watching Attention OS in action.
+
+Every chapter. Every edit. Every structural decision—powered by the three core loops.
+
+**If the system works, you'll see it in the clarity of the final book.**
+
+---
+
+## 📣 The Call
+
+The question isn't whether AI will reshape attention. **It already has.**
+
+The question is: **will you design your own defense? Or let someone else design it for you?**
+
+I'm building the fence. You're invited to fortify it.
+
+**Let's go.**
+
+---
+
+## About
+
+**Adrian Avendano**
+17 years building startups | 90+ countries as digital nomad | $7K lost in LUNA (skin in the game)
+
+COVID collapse → AI pivot → Mongolia breakthrough → Attention OS emerged
+
+Book publishing January 2025
+[ainomads.org](https://ainomads.org) | [Agent-A](https://agenta.chat) | [LinkedIn](https://linkedin.com/in/adrianavendano)
+
+---
+
+## 🤝 Contributing
+
+This is v1.0. Rough. Opinionated. Incomplete.
+
+Test the prompts. Submit improvements. Share what you discover. Report patterns from your domain.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
+
+**MIT License** – Fork it, modify it, just credit the source.
