@@ -90,7 +90,7 @@ Plus frameworks for adaptive focus, signal clarity, and conscious elimination.
 
 ### 1. Defensive AI Prompts
 Ready-to-use system prompts that **mirror patterns back to you** instead of telling you what to do:
-* [Input Auditor](prompts/input_auditor.md) (see your attention balance sheet)
+* [Input Auditor](prompts/attention_audio.md) (see your attention balance sheet)
 * [Capture AI](prompts/capture_ai.md) (DMN session companion)
 * [Journaling Feedback](prompts/journal_feedback.md) (accelerate reflection without prescription)
 * [Sunk Cost Detector](prompts/sunk_cost.md) (flag loss aversion)
@@ -136,7 +136,7 @@ When I did this, I expected to feel anxious, like I was missing something. Inste
 
 **Run the experiment. Track what surfaces.**
 
-Then come back and grab the [Input Auditor prompt](prompts/input_auditor.md). See where your attention *actually* goes versus where you *think* it goes.
+Then come back and grab the [Input Auditor prompt](prompts/attention_audio.md). See where your attention *actually* goes versus where you *think* it goes.
 
 ---
 
