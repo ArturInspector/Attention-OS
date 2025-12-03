@@ -1,12 +1,15 @@
 # Chapter 8 — The Decision Lab: Stress Test Your Ideas with an AI Council
-# Copy/paste: one user prompt goes to all models; each has its own system prompt.
 
-# Use this same template for the user’s input across all models
+## Copy/paste: one user prompt goes to all models; each has its own system prompt.
+
+---
+
+### User Prompt Template
+
+```yaml
 user_prompt_template: |
   {{user_prompt}}
-
-# Model-specific system prompts
-models:
+  models:
   - model: gpt-5
     name: gpt5-mini
     mode: chat
