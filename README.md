@@ -1,5 +1,10 @@
 # Attention OS
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/amonter/Attention-OS?style=flat-square)](https://github.com/amonter/Attention-OS/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/amonter/Attention-OS?style=flat-square)](https://github.com/amonter/Attention-OS/network)
+[![GitHub issues](https://img.shields.io/github/issues/amonter/Attention-OS?style=flat-square)](https://github.com/amonter/Attention-OS/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/amonter/Attention-OS?style=flat-square)](https://github.com/amonter/Attention-OS/pulls)
 
 **Your attention is being hijacked. Here's the defense system.**
 
@@ -195,7 +200,11 @@ This is v1.0. Rough. Opinionated. Incomplete.
 
 Test the prompts. Submit improvements. Share what you discover. Report patterns from your domain.
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+**Resources:**
+* [Contributing Guidelines](CONTRIBUTING.md)
+* [Code of Conduct](.github/CODE_OF_CONDUCT.md)
+* [Open an Issue](https://github.com/ArturInspector/Attention-OS/issues/new)
+* [Start Discussion](https://github.com/ArturInspector/Attention-OS/discussions/new)
 
 ---
 
